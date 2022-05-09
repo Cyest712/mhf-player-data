@@ -3,7 +3,7 @@ setlocal
 
 git add .
 
-git commit -m "最新版"
+git commit -m "latest"
 git push -f origin master
 
 pause
